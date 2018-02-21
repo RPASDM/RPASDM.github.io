@@ -27,7 +27,7 @@ All of which puts RPAS use as a key technology worth highlighting and developing
 This 1-day practical training and multithemed datathon will be hosted by the University of Botswana.  The morning will see training modules presented addressing good RPAS data curation and processing practices.  The afternoon will be dedicated to tutor facilitated exercises.  That lead attendees through either an imagery based pipeline (eg 3d model creation) or an insitu sensor based pipeline (eg atmospheric temperature profiles).
 
 
-#### At this time (Febuary 2018) we are still in the planning stages for all events and are awaiting approval from the conference organisers.  If you would like to be involved please contact us by joining the google grou rpasdata@gmail.com.
+# [](#header-5) At this time (Febuary 2018) we are still in the planning stages for all events and are awaiting approval from the conference organisers.  If you would like to be involved please contact us by joining the google group rpasdata@gmail.com.
 
 ![](images/IDW2018_v04_web.png)
 
