@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # [](#header-1)About
 
@@ -11,8 +14,7 @@ FAIR (Findable Accessible Interoperable and Reusable) and sometimes open data is
 
 The ulitmate goal will be to see ubiquitously FAIR RPAS data.
 
+## [](#header-2)[International Data Week](docs/idw.md)
 
-[Link to another page](docs/idw.md)
-
-![](docs/images/Chaos.png)
+![](docs/images/Chaos512.jpg)
 
