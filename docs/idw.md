@@ -4,7 +4,9 @@ layout: default
 
 # [](#header-1) International Data Week ([main site](http://internationaldataweek.org/))
 
-Remotely Piloted Aircraft Systems (RPAS, also known as small Unmanned Aerial Systems sUAS or colloquially as drones) are rapidly becoming a ubiquitous tool across a wide range of public and private sectors, from Disaster management and Search and Rescue, through to medical services, Earth Science Research, Geomatics, Agriculture, and Policing.  As platforms for scientific data collection, sUAS offer advantages such as the collection of higher spatial and/or temporal resolution data; reduced impact on the environment being monitored; lowered risk to workers and equipment involved in data collection; access to otherwise inaccessible data – all often at a lower cost than traditional methods might incur.  Further, their ability to cover tens of kilometers for relatively low cost and in rough terrain make them a valuable technology for accessing areas with little infrastructure.  As a result in many cases the developing world is leading the way in RPAS based solutions, and consequently is a key theme to address at IDW2018.  In addition to the conference sessions 2 events are being planned for co-location with IDW: a week of collaborative flying and a datathon tackeling the issues of data management and RPAS.
+Remotely Piloted Aircraft Systems (RPAS, also known as small Unmanned Aerial Systems sUAS or colloquially as drones) are rapidly becoming a ubiquitous tool across a wide range of public and private sectors, from Disaster management and Search and Rescue, through to medical services, Earth Science Research, Geomatics, Agriculture, and Policing.  RPAS offer the basic advantage of access to otherwise inaccessible and rugged terrains where minimal infrastructure makes all other means of access highly costly.  But they are also cable of collecting higher spatial and/or temporal resolution data, reducing the impact of data collection on an environment, and lowering risk to workers and equipment.  In many cases they are making data capture possible where it would otherwise be infeasable and in time spans that are useful for real time response.  
+
+All of which puts RPAS use as a key technology worth highlighting and developing at IDW that has been themed:**Digital Frontiers of Global Science** in 2018.  As a result, local and international groups are joining together to plan multiple RPAS related sessions at the conference and events before and after it.  IDW's location in Gabarone Botswana, make this a key opportunity to connect the developed and developing world whome are both wrestling with technological challenges and opportunities as RPAS we embrace the solutions RPAS are enablng.  In addition to conference sessions we have therefore proposed the following to external events:
 
 
 ## [](#header-2) Flying week
@@ -25,6 +27,7 @@ Remotely Piloted Aircraft Systems (RPAS, also known as small Unmanned Aerial Sys
 This 1-day practical training and multithemed datathon will be hosted by the University of Botswana.  The morning will see training modules presented addressing good RPAS data curation and processing practices.  The afternoon will be dedicated to tutor facilitated exercises.  That lead attendees through either an imagery based pipeline (eg 3d model creation) or an insitu sensor based pipeline (eg atmospheric temperature profiles).
 
 
+At this time (Febuary 2018) we are still in the planning stages for all events and are awaiting approval from the conference organisers.  If you would like to be involved please contact us by joining the google grou rpasdata@gmail.com.
 
 ![](images/IDW2018_v04_web.png)
 
