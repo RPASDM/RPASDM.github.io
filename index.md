@@ -1,6 +1,9 @@
 ---
-title: "About"
+layout: default
 ---
+
+# [](#header-1)About
+
 
 Community page to work on developing RPAS best data management practices.  
 
@@ -10,3 +13,7 @@ FAIR (Findable Accessible Interoperable and Reusable) and sometimes open data is
 
 
 The ulitmate goal will be to see ubiquitously FAIR RPAS data.
+
+
+[Link to another page](docs/idw.md)
+

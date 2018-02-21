@@ -1,6 +1,4 @@
-The repo hosts a GitHub Pages website, the rendered version is here [https://r4space.github.io/](https://r4space.github.io/)
-
-You can use the [editor on GitHub](https://github.com/r4space/r4space.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The repo hosts a GitHub Pages website, the rendered version is here [https://RPASDM.github.io/](https://RPASDM.github.io/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -30,7 +28,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/r4space/r4space.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected. The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
