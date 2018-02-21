@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # [](#header-1)About
 
@@ -16,4 +13,6 @@ The ulitmate goal will be to see ubiquitously FAIR RPAS data.
 
 
 [Link to another page](docs/idw.md)
+
+![](docs/images/Chaos.png)
 
