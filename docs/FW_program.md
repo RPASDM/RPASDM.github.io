@@ -1,5 +1,5 @@
 
-# [](#header-1) Provosional flying week program
+# [](#header-1) Provisional flying week program
 
 
 |**Preceding Saturday and Sunday**| Visitors arrive and go through necessary procedures to have the drone and their pilot certified by CAAB. Travel to the venue.|
