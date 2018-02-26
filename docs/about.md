@@ -1,6 +1,7 @@
 ---
 title: "About"
 ---
+
 Community page to work on developing RPAS best data management practices.
 
 Remotely Piloted Aircraft Systems (RPAS) or small Unmanned Aircraft Systems (sUAS) (aka “drones”) have rapidly spurred the development of services across all sectors. From Agriculture, Mining, Conservation, Earth Sciences, and Disaster response, through to Urban Planning, Medical cargo delivery, Search and Rescue, and Police work. For those domains in which the service is primarily about data delivery or information provision there is no common approach to data management leaving users to roll their own solutions internally. This is both costly in terms of development time, and results in unknown data quality, poor data publication, and limited to zero data reuse.
