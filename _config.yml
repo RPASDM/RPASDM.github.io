@@ -2,3 +2,4 @@ theme: jekyll-theme-dinky
 title: RPAS/sUAS FAIR data managment effort
 repository: https://github.com/RPASDM/RPASDM.github.io
 github: [metadata]
+future: true
