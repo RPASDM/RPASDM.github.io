@@ -12,6 +12,8 @@ All of which puts RPAS use as a key technology worth highlighting and developing
 
 ** Also, if anyone is interested in sponsoring African researchers to attend please contact Jane Wyngaard Center for research computing, University of Vermont **
 
+
+
 ## [](#header-2) Flying week #ScienceHackathon
 * **dates:** 29 oct - 2 november 2018
 * **location:** outside gabarone botswana
@@ -29,7 +31,11 @@ All of which puts RPAS use as a key technology worth highlighting and developing
 * **why:** networking, collaboration, learning, research
 This 1-day practical training and multithemed datathon will be hosted by the University of Botswana.  The morning will see training modules presented addressing good RPAS data curation and processing practices.  The afternoon will be dedicated to tutor facilitated exercises.  That lead attendees through either an imagery based pipeline (eg 3d model creation) or an insitu sensor based pipeline (eg atmospheric temperature profiles).
 
-
+# [](#header-2) SciDataCon drone sessions
+* Call for [abstracts](https://www.scidatacon.org/IDW2018/) is open until **31 May** for talks and posters.
+* Drone related sessions:
+    ** Emerging tech in Agriculture
+    ** Cross disciplinary drones for good in the developing world
 
 ![](images/IDW2018_v04_web.png)
 
