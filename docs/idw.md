@@ -8,8 +8,11 @@ Remotely Piloted Aircraft Systems (RPAS, also known as small Unmanned Aerial Sys
 
 All of which puts RPAS use as a key technology worth highlighting and developing at IDW that has been themed:**Digital Frontiers of Global Science** in 2018.  As a result, local and international groups are joining together to plan multiple RPAS related sessions at the conference and events before and after it.  IDW's location in Gabarone Botswana, make this a key opportunity to connect the developed and developing world whome are both wrestling with technological challenges and opportunities as RPAS we embrace the solutions RPAS are enablng.  In addition to conference sessions we have therefore proposed the following to external events:
 
+**At this time (April 2018) we are still looking for participant funding but have recieved approval from the conference organisers.  If you would like to be involved or receive registration updates please contact us by joining the [google group](https://groups.google.com/forum/#!forum/rpasdm).**
 
-## [](#header-2) Flying week
+** Also, if anyone is interested in sponsoring African researchers to attend please contact Jane Wyngaard Center for research computing, University of Vermont **
+
+## [](#header-2) Flying week #ScienceHackathon
 * **dates:** 29 oct - 2 november 2018
 * **location:** outside gabarone botswana
 * **who:** researchers using RPAS to capture data
@@ -27,7 +30,6 @@ All of which puts RPAS use as a key technology worth highlighting and developing
 This 1-day practical training and multithemed datathon will be hosted by the University of Botswana.  The morning will see training modules presented addressing good RPAS data curation and processing practices.  The afternoon will be dedicated to tutor facilitated exercises.  That lead attendees through either an imagery based pipeline (eg 3d model creation) or an insitu sensor based pipeline (eg atmospheric temperature profiles).
 
 
-**At this time (Febuary 2018) we are still in the planning stages for all events and are awaiting approval from the conference organisers.  If you would like to be involved please contact us by joining the [google group](https://groups.google.com/forum/#!forum/rpasdm).**
 
 ![](images/IDW2018_v04_web.png)
 
