@@ -10,7 +10,7 @@ All of which puts RPAS use as a key technology worth highlighting and developing
 
 * **At this time (April 2018) we are still looking for participant funding but have recieved approval from the conference organisers.  If you would like to be involved or receive registration updates please contact us by joining the [google group](https://groups.google.com/forum/#!forum/rpasdm).**
 
-* **Also, if anyone is interested in sponsoring African researchers to attend please contact Jane Wyngaard Center for research computing, University of Vermont**
+* **Also, if anyone is interested in sponsoring African researchers to attend please contact Jane Wyngaard, Center for research computing, University of Notre Dame**
 
 
 
