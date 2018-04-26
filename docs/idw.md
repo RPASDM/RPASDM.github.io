@@ -8,9 +8,9 @@ Remotely Piloted Aircraft Systems (RPAS, also known as small Unmanned Aerial Sys
 
 All of which puts RPAS use as a key technology worth highlighting and developing at IDW that has been themed:**Digital Frontiers of Global Science** in 2018.  As a result, local and international groups are joining together to plan multiple RPAS related sessions at the conference and events before and after it.  IDW's location in Gabarone Botswana, make this a key opportunity to connect the developed and developing world whome are both wrestling with technological challenges and opportunities as RPAS we embrace the solutions RPAS are enablng.  In addition to conference sessions we have therefore proposed the following to external events:
 
-**At this time (April 2018) we are still looking for participant funding but have recieved approval from the conference organisers.  If you would like to be involved or receive registration updates please contact us by joining the [google group](https://groups.google.com/forum/#!forum/rpasdm).**
+* **At this time (April 2018) we are still looking for participant funding but have recieved approval from the conference organisers.  If you would like to be involved or receive registration updates please contact us by joining the [google group](https://groups.google.com/forum/#!forum/rpasdm).**
 
-** Also, if anyone is interested in sponsoring African researchers to attend please contact Jane Wyngaard Center for research computing, University of Vermont **
+* **Also, if anyone is interested in sponsoring African researchers to attend please contact Jane Wyngaard Center for research computing, University of Vermont**
 
 
 
